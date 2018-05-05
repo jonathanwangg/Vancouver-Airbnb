@@ -1,4 +1,5 @@
-![airbnb logo](https://github.com/jonathanwangg/Vancouver-Airbnb/blob/master/images/logo.jpg)
+![airbnb logo](https://github.com/jonathanwangg/Vancouver-Airbnb/blob/master/images/logo_with_name.jpg
+.jpg)
 
 # Vancouver Airbnb
 
